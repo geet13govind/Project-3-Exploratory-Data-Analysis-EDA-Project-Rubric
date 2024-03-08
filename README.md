@@ -89,7 +89,13 @@ housing_data/: Contains the dataset used for analysis.
 
 Real state Price prediction Project 3 (EDA)/: Jupyter notebooks for each stage of the analysis.
 
-Real_state_price_prediction PPT/: Presentation of Project done.
+EDA on Real state pricing_PPT/: Presentation of Project done.
+
+Interim Submission Report on EDA analysis/: Interim Submission Report
+
+Final Submission Report EDA analysis/: Final Submission Report
+
+Final_data/: Data after cleaning and featuring engineering
 
 README.md: Overview of the project and instructions for replication.
 
